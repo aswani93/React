@@ -1,0 +1,8 @@
+.maincontainer {
+  background: #f6f6f6;
+  height: calc(100vh - 50px);
+  font-family: 'Lato', sans-serif;
+  width: calc(100% - 75px);
+  float: left;
+  overflow: auto;
+}
